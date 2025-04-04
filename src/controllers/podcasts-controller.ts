@@ -1,5 +1,5 @@
 import {IncomingMessage, ServerResponse} from 'http';
-import {serviceListEpisodes} from "../services/list-episodes-services.js";
+import {serviceListEpisodes} from "../services/list-episodes-services";
 
 export const getListEpisodes = async (
     req : IncomingMessage, 

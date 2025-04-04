@@ -10,5 +10,12 @@
         "episode": "RUBENS BARRICHELLO - Flow #339",
         "videoId": "4KDGTdiOV4I",
         "categories": ["esporte", "corrida"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "RUBENS",
+        "videoId": "4KDI",
+        "categories": ["esporte", "corrida", "bodybuilder"]
     }
+
 ]
