@@ -16,7 +16,3 @@ server.listen(port, () => {
     console.log(`Servidor iniciado na porta ${port}`);
 
 });
-
-
-
-
