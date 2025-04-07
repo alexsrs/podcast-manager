@@ -22,5 +22,11 @@
         "episode": "NodeJS - o Esporte do Futuro",
         "videoId": "4KDI",
         "categories": ["esporte", "corrida", "bodybuilder"]
+    },
+    {
+        "podcastName": "alex",
+        "episode": "show da xuxa",
+        "videoId": "4KDI",
+        "categories": ["esporte", "corrida", "bodybuilder"]
     }
 ]
