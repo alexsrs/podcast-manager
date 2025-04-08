@@ -8,8 +8,8 @@ const server = http.createServer(
         //query strig
         const [baseUrl, queryString] = req.url?.split("?") ?? ["",""];
 
-        console.log("Base URL:", baseUrl);
-        console.log("Query String:", queryString);
+        //console.log("Base URL:", baseUrl);
+        //console.log("Query String:", queryString);
 
         // Listar podcast
         if(req.method === "GET" && baseUrl === "/api/list") {
